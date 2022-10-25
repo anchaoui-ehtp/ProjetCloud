@@ -18,9 +18,7 @@ azure-storage-queue==12.4.0
 azureml-automl-core==1.46.1
 azureml-automl-runtime==1.46.1
 azureml-core==1.46.0
-azureml-dataprep==4.5.7
-azureml-dataprep-native==38.0.0
-azureml-dataprep-rslex==2.11.4
+
 azureml-dataset-runtime==1.46.0
 azureml-inference-server-http==0.7.6
 azureml-mlflow==1.46.0
