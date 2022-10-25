@@ -174,3 +174,4 @@ zipp==3.8.1
 azureml-train-automl-runtime==1.46.1
 azureml-interpret==1.46.0
 azureml-defaults==1.46.0
+streamlit
